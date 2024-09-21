@@ -1,7 +1,7 @@
 #vt
 git clone https://github.com/MTK-DM-810-UNIFIED/vendor_xiaomi_everpal -b lineage-21-wip vendor/xiaomi/everpal
 #vt common
-git clone https://github.com/MTK-DM-810-UNIFIED/device_xiaomi_mt6833-common -b lineage-21-wip vendor/xiaomi/mt6833-common
+git clone https://github.com/MTK-DM-810-UNIFIED/vendor_xiaomi_mt6833-common -b lineage-21-wip vendor/xiaomi/mt6833-common
 #kernel
 git clone https://github.com/MTK-DM-810-UNIFIED/device_xiaomi_everpal-kernel -b lineage-21 device/xiaomi/everpal-kernel
 #device common tree
